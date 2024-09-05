@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.mainContent {
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+}
+
+.firstHeader{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.secHeader{
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    display: flex;
+}
+
+.projectContent{
+    display: grid;
+}
+
+.announcements{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.trending{
+    display: flex;
+    flex-direction: column;
+}
+
+.trendingPiece {
+    display: flex;
+    justify-content: space-around;
+
+}
